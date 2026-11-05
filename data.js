@@ -16,5 +16,10 @@ const SITE = {
       url: "https://setup.adrien-reynard.ch",
       iconURL: "https://setup.adrien-reynard.ch/favicon.ico",
     },
+    {
+      name: "Consistency",
+      url: "https://consistency.adrien-reynard.ch",
+      iconURL: "https://consistency.adrien-reynard.ch/pwa-512.png,
+    },
   ],
 };
