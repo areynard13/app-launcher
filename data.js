@@ -19,7 +19,7 @@ const SITE = {
     {
       name: "Consistency",
       url: "https://consistency.adrien-reynard.ch",
-      iconURL: "https://consistency.adrien-reynard.ch/pwa-512.png,
+      iconURL: "https://consistency.adrien-reynard.ch/pwa-512.png",
     },
   ],
 };
